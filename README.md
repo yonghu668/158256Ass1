@@ -1,5 +1,5 @@
 # 158256Ass1
-Language： [English](./README.md) [简体中文](.\README_cnVer.md)
+Language： [English](./README.md) [简体中文](./README_cnVer.md)
 
 Massey University 158.256's Assignment 1 - Group 9 - Religion Website
 
