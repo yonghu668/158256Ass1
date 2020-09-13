@@ -1,5 +1,5 @@
 # 158256Ass1
-Language: [English](./README.md) [简体中文](.\README_cnVer.md)
+Language: [English](./README.md) [简体中文](./README_cnVer.md)
 
 梅西大学 158.256课程 作业 1 - 第 9 组 - 宗教网站
 
