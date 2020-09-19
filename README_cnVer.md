@@ -9,11 +9,14 @@ Language: [English](./README.md) [简体中文](./README_cnVer.md)
 
 ## 索引
 
-* 成员介绍
-* 任务列表
+- [成员介绍](#成员介绍)
+- [任务列表](#任务列表)
+- [工作流程示例](#工作流程示例)
+- [关于工作流程的截止日期](#关于工作流程的截止日期)
+- [更新记录](#更新记录)
 
-## 会员介绍
-（名称按字母排序）
+## 成员介绍
+（名字按字母排序）
 * Alex Li
   
   Name: 李正
@@ -30,7 +33,7 @@ Language: [English](./README.md) [简体中文](./README_cnVer.md)
   
   Name: 魏荷
 
-  Class: NZ184
+  Class: NZ183
 
 * Barry Allen Wu
   
@@ -50,9 +53,9 @@ Language: [English](./README.md) [简体中文](./README_cnVer.md)
 
 | 序号 | 工作内容(这将用于报告的某一个小节)          | 负责人         | 目前状态   | 复核人 |
 | ---- | ------------------------------------------- | -------------- | ---------- | ------ |
-| 1    | Introduction                                | Li Zheng       | Not Solved | 待更新 |
-| 2    | Target audience                             | Li Zheng       | Not Solved |
-| 3    | Web site's appeal to target audience        | Li Zheng       | Not Solved |
+| 1    | Introduction                                | Yang Qing     | Not Solved | 待更新 |
+| 2    | Target audience                             | Yang Qing    | Not Solved |
+| 3    | Web site's appeal to target audience        | Wei He       | Not Solved |
 | 4    | **Page layout**                             | Yang Qing      | Not Solved |
 | 5    | **Broswer compatibility**                   | Yang Qing      | Not Solved |
 | 6    | **Navigation**                              | Wu Kai         | Not Solved |
@@ -61,11 +64,10 @@ Language: [English](./README.md) [简体中文](./README_cnVer.md)
 | 9    | **Content presentation**                    | Li Zheng       | Not Solved |
 | 10   | **Functionality**                           | Wei He         | Not Solved |
 | 11   | **Accessibility**                           | Wei He         | Not Solved |
-| 12   | Suggestions for improving                   | All members \* | Not Solved |
-| 13   | Summary and conclusions                     | Li Zheng       | Not Solved |
+| 12   | Suggestions for improving                   | Li Zheng, Wu Kai | Not Solved |
+| 13   | Summary and conclusions                     | Li Zheng, Wu Kai | Not Solved |
 | 14   | Description of contributions of each member | All members    | Not Solved |
 
-• 关于任务12：任务1-11完成后，每位成员所写的建议和判断将由协调员李正总结到一起。
 
 ## 工作流程示例
 
@@ -88,11 +90,11 @@ Language: [English](./README.md) [简体中文](./README_cnVer.md)
 1. 我们每个人都有两个任务，因为这是我们第一次做合作任务，请尽早完成，以便让我们有时间处理意外。<br>
    你可以向任何人寻求帮助，可以与任何成员切换您的任务（在获得对方许可后），然后，让协调员知道你和谁换班了。
    **2020年9月18日（星期五）22:30之前**完成<br>
-2. 当所有任务完成时，协调人组织这些文件，做成一个初版，然后公共秘书写一个摘要（不是全文），张贴在forum里。<br>
+2. 当第4-11项任务完成时，协调人组织这些文件，做成一个初版，然后公共秘书写一个摘要（不是全文），张贴在forum里。<br>
    **2020年9月19日（星期六）22：30之前**完成。
 3. 收到其他同学的反馈和意见后，公共秘书收集整理它们，给协调员。<br>
    **2020年9月26日（星期六）10:00前**完成。
-4. 协调员根据建议和公共秘书提供的文件，对报告做修改。<br>
+4. 协调员根据建议和公共秘书提供的文件，对报告做修改。任务1-3和任务12-13完成。<br>
    **2020年9月26日（星期六）14:00前**完成。
 5. 所有成员审核报告，所有人满意之后提交。<br>
    **2020年9月27日（星期日）14:00前**完成。
@@ -102,3 +104,8 @@ Language: [English](./README.md) [简体中文](./README_cnVer.md)
 保持联系，放轻松！如果你有想法和意见，而不想在群聊里说，尽管联系我，我会尽力为你提供帮助。
 
 李正 2020.09.13 星期日
+
+## 更新记录
+**2020.09.15 星期二** 更新了任务分配，修正了任务分数的分配不平均问题。修正了Wei He同学的班级信息。
+
+**2020.09.18 星期五** 更新了关于工作流程的截止日期，轻度放宽了工作时间。

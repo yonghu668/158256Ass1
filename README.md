@@ -7,12 +7,12 @@ Welocme to Group 9! This repository is used for storaging each member's task, an
 
 ## Index
 
-- [158256Ass1](#158256ass1)
-  - [Index](#index)
-  - [Member Introduction](#member-introduction)
-  - [Task List](#task-list)
-  - [Working flow example](#working-flow-example)
-  - [Deadlines about working flow](#deadlines-about-working-flow)
+- [Index](#index)
+- [Member Introduction](#member-introduction)
+- [Task List](#task-list)
+- [Working flow example](#working-flow-example)
+- [Deadlines about working flow](#deadlines-about-working-flow)
+- [Update Log](#update-log)
 
 ## Member Introduction
 (Sorted by Familyname in Alphabet)
@@ -32,7 +32,7 @@ Welocme to Group 9! This repository is used for storaging each member's task, an
   
   Name: WEI He
 
-  Class: NZ184
+  Class: NZ183
 
 * Barry Allen Wu
   
@@ -52,9 +52,9 @@ Please be advised you are free to use images like screenshot and charts as you w
 
 | Ref | Report Section(Task Item)                   | Person in charge | Task State | Check   |
 | --- | ------------------------------------------- | ---------------- | ---------- | ------- |
-| 1   | Introduction                                | Li Zheng         | Not Solved | Need    |
-| 2   | Target audience                             | Li Zheng         | Not Solved | To      |
-| 3   | Web site's appeal to target audience        | Li Zheng         | Not Solved | Be      |
+| 1   | Introduction                                | Yang Qing        | Not Solved | Need    |
+| 2   | Target audience                             | Yang Qing        | Not Solved | To      |
+| 3   | Web site's appeal to target audience        | Wei He        | Not Solved | Be      |
 | 4   | **Page layout**                             | Yang Qing        | Not Solved | Updated |
 | 5   | **Broswer compatibility**                   | Yang Qing        | Not Solved |
 | 6   | **Navigation**                              | Wu Kai           | Not Solved |
@@ -63,11 +63,10 @@ Please be advised you are free to use images like screenshot and charts as you w
 | 9   | **Content presentation**                    | Li Zheng         | Not Solved |
 | 10  | **Functionality**                           | Wei He           | Not Solved |
 | 11  | **Accessibility**                           | Wei He           | Not Solved |
-| 12  | Suggestions for improving                   | All members \*   | Not Solved |
-| 13  | Summary and conclusions                     | Li Zheng         | Not Solved |
+| 12  | Suggestions for improving                   | Li Zheng, Wu Kai  | Not Solved |
+| 13  | Summary and conclusions                     | Li Zheng, Wu Kai | Not Solved |
 | 14  | Description of contributions of each member | All members      | Not Solved |
 
-\* About Task 12: After Task 1 - 11 was completed, these suggestions and judgements written by every member will be summarized by Li Zheng the coordinator.
 
 ## Working flow example
 
@@ -90,11 +89,11 @@ Use **Beijing time(GMT +8), 24-hour timing**.
 1. Each of us has 2 tasks, try to finish them early to avoid anxiety for this is our first time to do something co-operative.<br>
    You can switch your task with any member(after getting that person's permittion) or ask for help to anybody, then, let the coordinator know what happend.<br>
    **Fihish this before 22:30 Sep 18th(Friday), 2020.**<br>
-2. When all tasks are done, coortinator orginaze these files, then public secretary write a **SUMMARY** (not full text), post it on to forum.<br>
+2. When Task 4-11 are done, coortinator orginaze these files, then public secretary write a **SUMMARY** (not full text), post it on to forum.<br>
    **Finish this before 22:30 Sep 19th(Saturday), 2020.**
 3. After receiving suggestions about our summary, public secretary gathers them.<br>
    **Finish this 10:00 Sep 26th(Saturday), 2020.**
-4. The coordinator imporve report with the suggestions and file provided by public secretary.<br>
+4. The coordinator imporve report with the suggestions and file provided by public secretary. Finish Task 1-3 and Task 12-13.<br>
    **Finish this 14:00 Sep 26th(Saturday), 2020.**
    
 5. Each member censors the report, submit it when everyone is satisfied.<br>
@@ -105,3 +104,9 @@ Use **Beijing time(GMT +8), 24-hour timing**.
 KEEP IN TOUCH AND FEEL RELEAXED, if there are any questions you don't want to talk about it in the chatting group, just contact me and I will help you with my best effort.
 
 Li Zheng 2020.09.13 Sunday
+
+## Update Log
+**2020.09.15 Tuesday** Task assignment updated to make scores are averagely devided to all members. Corrected Class infomation about Wei He.
+
+
+**2020.09.18 Friday** Deadline about tasks updated, the time is slightly delayed.更新了关于工作流程的截止日期，轻度放宽了工作时间。
